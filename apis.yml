@@ -1,0 +1,75 @@
+aid: mendel-ai
+name: Mendel AI
+description: >-
+  Mendel AI is a San Jose, California clinical AI company founded in 2017 by
+  Dr. Karim Galil to streamline oncology research by organizing real-world
+  data and accelerating clinical-trial workflows. Its flagship platform,
+  Mendel Hypercube, pairs large language models with a clinician-built
+  clinical knowledge hypergraph to add physician-like reasoning to LLMs
+  operating over electronic health records, pathology reports, genomic data,
+  clinician notes, claims, diagnostic data, and EDC submissions. Hypercube
+  is offered as three productized experiences — Hypercube Cohort for
+  patient cohort discovery (with funnel-style criteria analysis and direct
+  integration to clinicaltrials.gov), Hypercube Analyst for AI-driven
+  analysis of structured and unstructured real-world data, and Build Your
+  Own Hypercube for custom clinical-data queries. The platform integrates
+  with enterprise data warehouses (Databricks, Snowflake) and BI tools
+  (Tableau, Qlik), and is available through the AWS Marketplace, Microsoft
+  Azure Marketplace, and natively on the Snowflake AI Data Cloud. Mendel
+  serves pharma, providers, payers, and research organizations including
+  Quest Diagnostics, Boston Scientific, Gatehouse Bio, and the University
+  of Pennsylvania, with published evidence in oncology trial prescreening.
+  Mendel has no public developer portal, OpenAPI specification, SDK, or
+  open-source GitHub repositories; integration is delivered through
+  enterprise contracts and cloud-marketplace deployments.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Clinical AI
+  - Healthcare AI
+  - Oncology
+  - Clinical Trials
+  - Patient Cohort Discovery
+  - Real World Data
+  - Electronic Health Records
+  - Natural Language Processing
+  - Large Language Models
+  - Clinical Knowledge Graph
+  - Pharmacovigilance
+  - Precision Medicine
+  - Life Sciences
+url: https://raw.githubusercontent.com/api-evangelist/mendel-ai/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.mendel.ai
+  - type: Hypercube
+    url: https://www.mendel.ai/hypercube
+  - type: HypercubeCohort
+    url: https://www.mendel.ai/product/hypercube-cohort
+  - type: HypercubeAnalyst
+    url: https://www.mendel.ai/product/hypercube-analyst
+  - type: BuildYourOwnHypercube
+    url: https://www.mendel.ai/product/build-your-own
+  - type: HypercubeApp
+    url: https://ai03-hypercube.mendel.ai/
+  - type: AWSMarketplace
+    url: https://aws.amazon.com/marketplace/pp/prodview-6fjtfvuwwuhfm
+  - type: AzureMarketplace
+    url: https://www.mendel.ai/post/hypercube-platform-from-mendel-now-available-in-the-microsoft-azure-marketplace
+  - type: Publications
+    url: https://www.mendel.ai/resources/publications
+  - type: Blog
+    url: https://www.mendel.ai/blog
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mendel-ai
+  - type: GitHub
+    url: https://github.com/mendel-ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
