@@ -3,13 +3,10 @@
   "feeds": [
     {
       "source": "https://www.mendel.ai/blog",
-      "error": "URLError"
-    },
-    {
-      "source": "https://www.mendel.ai/resources/publications",
-      "error": "URLError"
+      "saved": 0,
+      "error": "SSL handshake failed (TLSV1_ALERT_INTERNAL_ERROR)"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:53:24Z"
 }
