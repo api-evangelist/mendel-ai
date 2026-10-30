@@ -1,4 +1,4 @@
-# mendel-ai
+# Mendel AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mendel AI — clinical AI for oncology patient cohort discovery and EHR real-world data
+Mendel AI is a San Jose, California clinical AI company founded in 2017 by Dr. Karim Galil to streamline oncology research by organizing real-world data and accelerating clinical-trial workflows. Its flagship platform, Mendel Hypercube, pairs large language models with a clinician-built clinical knowledge hypergraph to add physician-like reasoning to LLMs operating over electronic health records, pathology reports, genomic data, clinician notes, claims, diagnostic data, and EDC submissions. Hypercube is offered as three productized experiences — Hypercube Cohort for patient cohort discovery (with funnel-style criteria analysis and direct integration to clinicaltrials.gov), Hypercube Analyst for AI-driven analysis of structured and unstructured real-world data, and Build Your Own Hypercube for custom clinical-data queries. The platform integrates with enterprise data warehouses (Databricks, Snowflake) and BI tools (Tableau, Qlik), and is available through the AWS Marketplace, Microsoft Azure Marketplace, and natively on the Snowflake AI Data Cloud. Mendel serves pharma, providers, payers, and research organizations including Quest Diagnostics, Boston Scientific, Gatehouse Bio, and the University of Pennsylvania, with published evidence in oncology trial prescreening. Mendel has no public developer portal, OpenAPI specification, SDK, or open-source GitHub repositories; integration is delivered through enterprise contracts and cloud-marketplace deployments.
+
+**Areas:** Clinical AI · Healthcare AI · Oncology · Clinical Trials · Patient Cohort Discovery · Real-World Data · Electronic Health Records · Natural Language Processing · LLM · Clinical Knowledge Graph · Pharmacovigilance · Precision Medicine
+
+## Mendel AI on APIs.io
+
+Everything profiled for Mendel AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mendel-ai/](https://apis.io/providers/mendel-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mendel Ai Domain Security](https://apis.io/security/mendel-ai/mendel-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mendel.ai)
+- [Blog](https://www.mendel.ai/blog)
+
+## API Evangelist rating
+
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 1.2 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mendel-ai/](https://apis.io/providers/mendel-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mendel AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mendel-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
